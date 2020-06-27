@@ -1,0 +1,13 @@
+Execução de teste para /Users/jaquelaurenti/codenation/csharp-7/Source.TestSubmission/bin/Debug/netcoreapp2.2/Source.TestSubmission.dll(.NETCoreApp,Version=v2.2)
+Ferramenta de Linha de Comando de Execução de Teste da Microsoft (R) Versão 16.3.0
+Copyright (c) Microsoft Corporation. Todos os direitos reservados.
+
+Iniciando execução de teste, espere...
+
+1 arquivos de teste no total corresponderam ao padrão especificado.
+Results File: /Users/jaquelaurenti/codenation/csharp-7/Source.TestSubmission/results.xml
+
+Execução de Teste Bem-sucedida.
+Total de testes: 52
+     Aprovados: 52
+Tempo total: 4,4854 Segundos
